@@ -1,0 +1,17 @@
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\bin\Debug\Flappy bird Project.deps.json
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\bin\Debug\Flappy bird Project.runtimeconfig.json
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\bin\Debug\Flappy bird Project.dll
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\bin\Debug\Flappy bird Project.pdb
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.csproj.AssemblyReference.cache
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.AssemblyInfoInputs.cache
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.AssemblyInfo.cs
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.csproj.CoreCompileInputs.cache
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.csproj.CopyComplete
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.dll
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\refint\Flappy bird Project.dll
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.pdb
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\Flappy bird Project.genruntimeconfig.cache
+C:\Users\12LP0212\OneDrive - Åmåls kommun\Dokument\flappy-bird-project\.godot\mono\temp\obj\Debug\ref\Flappy bird Project.dll

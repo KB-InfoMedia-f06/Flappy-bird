@@ -1,0 +1,33 @@
+[gd_scene load_steps=5 format=3 uid="uid://vcubhax7fbm2"]
+
+[ext_resource type="Texture2D" uid="uid://d4gk0nop2umsv" path="res://PipeTransparentFlappyBird.png" id="1_a1dtg"]
+[ext_resource type="Script" path="res://PipeObstacle.cs" id="1_d6yye"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_8sljk"]
+size = Vector2(71, 351)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_01u7y"]
+size = Vector2(119, 50)
+
+[node name="Pipe" type="Area2D"]
+script = ExtResource("1_d6yye")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+visibility_layer = 512
+position = Vector2(0.499996, 1)
+scale = Vector2(2.063, 2)
+texture = ExtResource("1_a1dtg")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0.5, 33.5)
+shape = SubResource("RectangleShape2D_8sljk")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="."]
+position = Vector2(0.5, -177)
+shape = SubResource("RectangleShape2D_01u7y")
+
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+position = Vector2(1, 15)
+scale = Vector2(7.725, 46.1)
+
+[connection signal="screen_exited" from="VisibleOnScreenNotifier2D" to="." method="LeftScreen"]
